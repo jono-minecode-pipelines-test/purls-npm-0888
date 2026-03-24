@@ -1,0 +1,41 @@
+{
+    "name": "002-npm",
+    "version": "1.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "002-npm@1.0.1",
+    "_shasum": "52f06de23d3b57d31d8b6788835cc38731f64336",
+    "_from": ".",
+    "_npmVersion": "3.10.10",
+    "_nodeVersion": "6.10.0",
+    "_npmUser": {
+        "name": "personal",
+        "email": "405454518@163.com"
+    },
+    "dist": {
+        "shasum": "52f06de23d3b57d31d8b6788835cc38731f64336",
+        "tarball": "https://registry.npmjs.org/002-npm/-/002-npm-1.0.1.tgz",
+        "integrity": "sha512-w/w4nOZnq1g9CVFWKKpOz9M1elJEAA6cPlpui5wa7e/182Vp8wAuET6J4mhPRXKLRWp/XDqiv1tS+gJu3ANkfw==",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDHmVwfAzZZvPDi72q39UI00mzarsap0mxlUCy2vnpkDQIgIQ0DPluIWy3RLcSxbjpcu5nq4V28QyDbADTi5sKhUEc="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "personal",
+            "email": "405454518@163.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "packages-18-east.internal.npmjs.com",
+        "tmp": "tmp/002-npm-1.0.1.tgz_1493342955460_0.8491774452850223"
+    }
+}
